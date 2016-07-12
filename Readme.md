@@ -1,6 +1,7 @@
-# RediJSON
+# RediJson
 
-(TODO rename project RediJSON before release /  on the github repo)
+small library to use redis + arbitrary objects (serialized in json)
+
 
 # API / Usage
 
